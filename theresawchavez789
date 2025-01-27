@@ -1,57 +1,86 @@
-tps://www.gnu.org/licenses/why-not-lgpl.html>.
------BEGIN CERTIFICATE-----
-MIIEwjCCA6qgAwIBAgIUYpPSWCTn/Onj3iQgaIqAJiVTD8wwDQYJKoZIhvcNAQEL
-BQAwgYsxCzAJBgNVBAYTAlVTMRkwFwYDVQQKExBDbG91ZEZsYXJlLCBJbmMuMTQw
-MgYDVQQLEytDbG91ZEZsYXJlIE9yaWdpbiBTU0wgQ2VydGlmaWNhdGUgQXV0aG9y
-aXR5MRYwFAYDVQQHEw1TYW4gRnJhbmNpc2NvMRMwEQYDVQQIEwpDYWxpZm9ybmlh
-MB4XDTI1MDEyNjA4NDIwMFoXDTQwMDEyMzA4NDIwMFowYjEZMBcGA1UEChMQQ2xv
-dWRGbGFyZSwgSW5jLjEdMBsGA1UECxMUQ2xvdWRGbGFyZSBPcmlnaW4gQ0ExJjAk
-BgNVBAMTHUNsb3VkRmxhcmUgT3JpZ2luIENlcnRpZmljYXRlMIIBIjANBgkqhkiG
-9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1Zyi8848WvCQj3mTP6iEuf/2G1KWyf6W5exk
-SD5TWH22Lu5FCErSMAb8WdWCY89FoYwYiR8SZKJix0r9RrwiRveqndjY9qCn+Dff
-N1ad3PeZAOBW9sg6rIAOJdH57e8jx+/wr2EamrLtzhrRBj79q4wESX0MzGeFZKT7
-qAO9yJttJBWK1gzXbHa+t0Vtw1elXlcM684vHrBsPAjjbrGQod6v97NNDkpIj1U7
-v044AgSNJ/ak4I0l9mgvITDkIFe1QFo/QSRLddLU2Bl6Gk/kjno/bON6oROWQU3P
-7Atsw0PF/7ER4MO5YuSYAlaYD7UGsN/DfnBZuylWXou5nsSaBwIDAQABo4IBRDCC
-AUAwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcD
-ATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBSMh6RIqWFMxES04I+VQjZPJI1f1jAf
-BgNVHSMEGDAWgBQk6FNXXXw0QIep65TbuuEWePwppDBABggrBgEFBQcBAQQ0MDIw
-MAYIKwYBBQUHMAGGJGh0dHA6Ly9vY3NwLmNsb3VkZmxhcmUuY29tL29yaWdpbl9j
-YTBFBgNVHREEPjA8gh0qLmt5Yy10aGVyZXNhd2NoYXZlejc4OS51cy5rZ4Iba3lj
-LXRoZXJlc2F3Y2hhdmV6Nzg5LnVzLmtnMDgGA1UdHwQxMC8wLaAroCmGJ2h0dHA6
-Ly9jcmwuY2xvdWRmbGFyZS5jb20vb3JpZ2luX2NhLmNybDANBgkqhkiG9w0BAQsF
-AAOCAQEAmBc0jrwH3aK+Ncz6+Ipm9uYmI5lD+jdAZFyy4FkITqdhH993IQszev8Q
-2FCrpzbVyJ99Tm1IgvnPMpbirLy7hGkWjGdAtHlDmE2mDaHXuXmvx0TrCo4NSaWB
-eC6vIpXEA84eTlOVcg6uZuE2esY6ggnbRcNkq10FXjMK7m0+Jz4lu7cykz5KCp77
-5zx2uAGBNkAsP61kNl/K/QHwc8UXgRFsmzSKGJlHS+qzfHk2fMGpxd3nhtxxksWA
-nUjO4UA0vVOiBoOEX+BgArpgT8Z5Va0MMiMXoumv8MViw5u7/rHC2X5BfP8TQ3JD
-q97RhvcUzNFsGKxyTKPA13OxpMO/0w==
------END CERTIFICATE-----
------BEGIN PRIVATE KEY-----
-MIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDVnKLzzjxa8JCP
-eZM/qIS5//YbUpbJ/pbl7GRIPlNYfbYu7kUIStIwBvxZ1YJjz0WhjBiJHxJkomLH
-Sv1GvCJG96qd2Nj2oKf4N983Vp3c95kA4Fb2yDqsgA4l0fnt7yPH7/CvYRqasu3O
-GtEGPv2rjARJfQzMZ4VkpPuoA73Im20kFYrWDNdsdr63RW3DV6VeVwzrzi8esGw8
-CONusZCh3q/3s00OSkiPVTu/TjgCBI0n9qTgjSX2aC8hMOQgV7VAWj9BJEt10tTY
-GXoaT+SOej9s43qhE5ZBTc/sC2zDQ8X/sRHgw7li5JgCVpgPtQaw38N+cFm7KVZe
-i7mexJoHAgMBAAECggEAITs2gI5XhmBBZQipVzBswZDn5RVCnxcLu6Y8bZ7AkZYx
-BvkLZUBalZ0omgMkv0lKEFk+oepjDqPSkSWB5IS1Imw6L0dCbY/NwchTYgUIFw2v
-0FqWPNsmgZqEWO7jHlhjLSIPRAFrxaBLbZJvbTTUeuET86jQGmaKcn9WJSu71R7L
-8y6ukvPJNR/HEVeJEwWCpC7XkTfj0bHF03NTFULp3/CQC+6+IV/afaz7Ch5mfm/x
-tXD3kfpcUOkmF50jAl9XuhS1JclWntD7g991urrBmv0GQEIXhASdclOFItwgQPpF
-eBvD12tpQadPTxFooWAtF+nJG8MoBoCRIxLkuQtQjQKBgQD8HEGJ/cKAoCXRVnbf
-+xAIq2/hiuh8C814a+sK8+ZcIAJadGGqvaOzUPV413cGcuH3JfkplbRiXWgS7vNj
-9gYOoFCErUGohMFerI9ldrBF0fxB9qCZBoHaQ0hXLhj2j7s+bvNT+IM6M1Rcn//9
-gQqgx4QmghiptukkSD4aWyiepQKBgQDY6FNQCSGSBS0UROh0vAyqE7/RMpWmlHKA
-LgvHXZrA7wYtwLdJZpV8r6rIMEgrUtZNAYI4fa6PkJPDpHF8aUilko5ZdKzODNYY
-Z1mUbWApMcLSGp3uvuLmhBraXoagtVv/93TqAbs5y41YadC6wKmofHM6UXflNM85
-6un040PCOwKBgEeW9n1q07qWv2ZseSEtN+ZeWEzhlxbyewxBCON5UubCKCjrd3h2
-lW+sA6im9qOcJ9J4tAI9ApYUFCOcOv0dtaadm3+xez2RRR/PPIEBbRjGgi1xDTWn
-BWSnSnmHG4uYUQFvnCUyIoF6ZfBPdu/TnuL9BOeydbJrwFSPNyNg024JAoGBAJ22
-r30uZn5pzRFD2VGnuf2gRoSxpyZsIaUZ1e6sHO3T3kY+Lgbs1BzJDgBpOtBldvSe
-+DRjDh3NHePPGcVAOFZLbb2VnGBl7PXpj7Tgol7Rk7p5KASEPy8lNvE4ceNAexhu
-sU/E2oF3g9qZde+UTsf3VUE+I1NBRrvyFxK8fHQpAoGAan+nv1JCtmw/ifrRgkOl
-Fgd1AfxoKVNJEvWDtjKrpe7S6knjdN51+lchtjpWudJXVpK2Y/ltTPGp7KF9cvG8
-1R7O/QoPU2H4YMwduC/9Q/H8lkN0zwZCegzmxe5T5JN5ttqhnyi9lMUMrpHktQuM
-xIooe3iFgt0VNxQXeV7lcsc=
------END PRIVATE KEY-----
+{
+  "errors": [
+    {
+      "code": 1000,
+      "message": "message"
+    }
+  ],
+  "messages": [
+    {
+      "code": 1000,
+      "message": "message"
+    }
+  ],
+  "success": true,
+  "result": {
+    "id": "a1c5143b4acbd6827c19b90c7ec609cbbc1b3",
+    "hostname": "kyc-theresawchavez789.us.kg",
+    "ssl": {
+      "id": "0d89c70d-ad9f-4843-b99f-6cc0252067e9",
+      "bundle_method": "ubiquitous",
+      "certificate_authority": "digicert",
+      "custom_certificate": "-----BEGIN CERTIFICATE-----\\nMIIFJDCCBAygAwIBAgIQD0ifmj/Yi5NP/2gdUySbfzANBgkqhkiG9w0BAQsFADBN\\nMQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5E...SzSHfXp5lnu/3V08I72q1QNzOCgY1XeL4GKVcj4or6cT6tX6oJH7ePPmfrBfqI/O\\nOeH8gMJ+FuwtXYEPa4hBf38M5eU5xWG7\\n-----END CERTIFICATE-----\\n",
+      "custom_csr_id": "7b163417-1d2b-4c84-a38a-2fb7a0cd7752",
+      "custom_key": "-----BEGIN RSA PRIVATE KEY-----\nMIIEowIBAAKCAQEAwQHoetcl9+5ikGzV6cMzWtWPJHqXT3wpbEkRU9Yz7lgvddmG\ndtcGbg/1CGZu0jJGkMoppoUo4c3dts3iwqRYmBikUP77wwY2QGmDZw2FvkJCJlKn\nabIRuGvBKwzESIXgKk2016aTP6/dAjEHyo6SeoK8lkIySUvK0fyOVlsiEsCmOpid\ntnKX/a+50GjB79CJH4ER2lLVZnhePFR/zUOyPxZQQ4naHf7yu/b5jhO0f8fwt+py\nFxIXjbEIdZliWRkRMtzrHOJIhrmJ2A1J7iOrirbbwillwjjNVUWPf3IJ3M12S9pE\newooaeO2izNTERcG9HzAacbVRn2Y2SWIyT/18QIDAQABAoIBACbhTYXBZYKmYPCb\nHBR1IBlCQA2nLGf0qRuJNJZg5iEzXows/6tc8YymZkQE7nolapWsQ+upk2y5Xdp/\naxiuprIs9JzkYK8Ox0r+dlwCG1kSW+UAbX0bQ/qUqlsTvU6muVuMP8vZYHxJ3wmb\n+ufRBKztPTQ/rYWaYQcgC0RWI20HTFBMxlTAyNxYNWzX7RKFkGVVyB9RsAtmcc8g\n+j4OdosbfNoJPS0HeIfNpAznDfHKdxDk2Yc1tV6RHBrC1ynyLE9+TaflIAdo2MVv\nKLMLq51GqYKtgJFIlBRPQqKoyXdz3fGvXrTkf/WY9QNq0J1Vk5ERePZ54mN8iZB7\n9lwy/AkCgYEA6FXzosxswaJ2wQLeoYc7ceaweX/SwTvxHgXzRyJIIT0eJWgx13Wo\n/WA3Iziimsjf6qE+SI/8laxPp2A86VMaIt3Z3mJN/CqSVGw8LK2AQst+OwdPyDMu\niacE8lj/IFGC8mwNUAb9CzGU3JpU4PxxGFjS/eMtGeRXCWkK4NE+G08CgYEA1Kp9\nN2JrVlqUz+gAX+LPmE9OEMAS9WQSQsfCHGogIFDGGcNf7+uwBM7GAaSJIP01zcoe\nVAgWdzXCv3FLhsaZoJ6RyLOLay5phbu1iaTr4UNYm5WtYTzMzqh8l1+MFFDl9xDB\nvULuCIIrglM5MeS/qnSg1uMoH2oVPj9TVst/ir8CgYEAxrI7Ws9Zc4Bt70N1As+U\nlySjaEVZCMkqvHJ6TCuVZFfQoE0r0whdLdRLU2PsLFP+q7qaeZQqgBaNSKeVcDYR\n9B+nY/jOmQoPewPVsp/vQTCnE/R81spu0mp0YI6cIheT1Z9zAy322svcc43JaWB7\nmEbeqyLOP4Z4qSOcmghZBSECgYACvR9Xs0DGn+wCsW4vze/2ei77MD4OQvepPIFX\ndFZtlBy5ADcgE9z0cuVB6CiL8DbdK5kwY9pGNr8HUCI03iHkW6Zs+0L0YmihfEVe\nPG19PSzK9CaDdhD9KFZSbLyVFmWfxOt50H7YRTTiPMgjyFpfi5j2q348yVT0tEQS\nfhRqaQKBgAcWPokmJ7EbYQGeMbS7HC8eWO/RyamlnSffdCdSc7ue3zdVJxpAkQ8W\nqu80pEIF6raIQfAf8MXiiZ7auFOSnHQTXUbhCpvDLKi0Mwq3G8Pl07l+2s6dQG6T\nlv6XTQaMyf6n1yjzL+fzDrH3qXMxHMO/b13EePXpDMpY7HQpoLDi\n-----END RSA PRIVATE KEY-----\n",
+      "expires_on": "2021-02-06T18:11:23.531995Z",
+      "hosts": [
+        "app.example.com",
+        "*.app.example.com"
+      ],
+      "issuer": "DigiCertInc",
+      "method": "http",
+      "serial_number": "6743787633689793699141714808227354901",
+      "settings": {
+        "ciphers": [
+          "ECDHE-RSA-AES128-GCM-SHA256",
+          "AES128-SHA"
+        ],
+        "early_hints": "on",
+        "http2": "on",
+        "min_tls_version": "1.0",
+        "tls_1_3": "on"
+      },
+      "signature": "SHA256WithRSA",
+      "status": "initializing",
+      "type": "dv",
+      "uploaded_on": "2020-02-06T18:11:23.531995Z",
+      "validation_errors": [
+        {
+          "message": "SERVFAIL looking up CAA for kyc-theresawchavez789.us.kg"
+        }
+      ],
+      "validation_records": [
+        {
+          "emails": [
+            "administrator@example.com",
+            "webmaster@example.com"
+          ],
+          "http_body": "ca3-574923932a82475cb8592200f1a2a23d",
+          "http_url": "http://kyc-theresawchavez789.us.kg/.well-known/pki-validation/ca3-da12a1c25e7b48cf80408c6c1763b8a2.txt",
+          "txt_name": "_acme-challenge.app.example.com",
+          "txt_value": "810b7d5f01154524b961ba0cd578acc2"
+        }
+      ],
+      "wildcard": false
+    },
+    "created_at": "2020-02-06T18:11:23.531995Z",
+    "custom_metadata": {
+      "foo": "string"
+    },
+    "custom_origin_server": "origin2.example.com",
+    "custom_origin_sni": "sni.example.com",
+    "ownership_verification": {
+      "name": "_cf-custom-hostname.app.example.com",
+      "type": "txt",
+      "value": "5cc07c04-ea62-4a5a-95f0-419334a875a4"
+    },
+    "ownership_verification_http": {
+      "http_body": "5cc07c04-ea62-4a5a-95f0-419334a875a4",
+      "http_url": "http://custom.test.com/.well-known/cf-custom-hostname-challenge/0d89c70d-ad9f-4843-b99f-6cc0252067e9"
+    },
+    "status": "active",
+    "verification_errors": [
+      "None of the A or AAAA records are owned by this account and the pre-generated ownership verification token was not found."
+    ]
+  }
+}
